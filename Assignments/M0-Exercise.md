@@ -1,7 +1,5 @@
 ## Exercises
 
-The goal for this module is to set up your development environment that will allow you to complete the exercises and try the demos. 
-
 1. Ensure that you have a working version of [Eclipse for Java](http://www.eclipse.org/) and [Java 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 2. Install the Checkstyle Eclipse Plug-in. In Eclipse, select `Help | Eclipse Marketplace...` and enter `Checkstyle` in the `Find:` box. From the results, install `Checkstyle Plug-In...`.
 3. Similar as the above, install the EclEmma Eclipse-Plug-In. Note that in the more recent versions of Eclipse, it is possible that EclEmma is already installed in the default distribution.
