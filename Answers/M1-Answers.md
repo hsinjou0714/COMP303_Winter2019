@@ -29,7 +29,7 @@ public List<Card> getCard()
 
 ## Exercise 5
 
-The code of a partial solution can be found [here](https://github.com/prmr/SoftwareDesign/modules/answers/EnumeratedCard.java). The solution leaves out the copying part of the assignment. To implement the object copying, you will need a way to copy `Deck` and `Card` instances. One way to do this at this point is simply to define copy constructors for these two classes.
+The code of a partial solution can be found [here](EnumeratedCard.java). The solution leaves out the copying part of the assignment. To implement the object copying, you will need a way to copy `Deck` and `Card` instances. One way to do this at this point is simply to define copy constructors for these two classes.
 
 ## Exercise 6
 
