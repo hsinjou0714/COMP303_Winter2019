@@ -11,3 +11,6 @@ This course provides an in-depth introduction to the discipline of software desi
 [Slides](Slides/)
 
 [Assignments](Assignments/)
+
+## Survey
+[Early Survey](https://goo.gl/forms/024sLZUg7GOWPU4s1)
