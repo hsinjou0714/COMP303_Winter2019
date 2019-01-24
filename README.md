@@ -6,7 +6,7 @@ This course provides an in-depth introduction to the discipline of software desi
 ## Resources
 [Syllabus](http://jguo-web.com/COMP303_Winter2019/)
 
-[Online Forum](piazza.com/mcgill.ca/winter2019/comp303/home)
+[Online Forum](https://piazza.com/mcgill.ca/winter2019/comp303/home)
 
 [Slides](Slides/)
 
