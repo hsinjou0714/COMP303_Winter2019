@@ -12,5 +12,11 @@ This course provides an in-depth introduction to the discipline of software desi
 
 [Assignments](Assignments/)
 
+[Software Application Demo](https://github.com/prmr/Solitaire)
+
+[Other Code Demo](https://github.com/jin-guo/SoftwareDesignCode)
+
+[UML Tool](https://github.com/prmr/JetUML)
+
 ## Survey
 [Early Survey](https://goo.gl/forms/024sLZUg7GOWPU4s1)
