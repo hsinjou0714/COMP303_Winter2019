@@ -14,3 +14,6 @@ The following exercises are are optional. The ones prefixed with :star: are more
 1. :star: Extend the previous exercise to include the `serialize` and `deserialize` methods.
 
 2. :spades: Write unit tests for all the classes of the Solitaire application you have developed so far. Compute the coverage of your test suite with EclEmma.
+
+---
+Note: this content is updated from exercises in [Introduction to Software Design with Java](https://github.com/prmr/SoftwareDesign/blob/master/modules/Module-04.md) by Martin P. Robillard
