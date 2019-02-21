@@ -24,3 +24,5 @@ This course provides an in-depth introduction to the discipline of software desi
 [M3](https://goo.gl/forms/6h3UiFqAgkq9LLQS2)
 
 [M5](https://goo.gl/forms/gnZq5a1wfcgR1CP72)
+
+[M6](https://goo.gl/forms/MTXKB6wauipD5q762)
