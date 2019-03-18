@@ -19,3 +19,4 @@ the model and the observers using the pull strategy. Create a class diagram and 
 
 8. Study the code of the [Solitaire](https://github.com/prmr/Solitaire) application to see how the `DiscardPileView` relies on the observer design pattern to respond to GUI events, and also updates to the model. Draw a class diagram and a sequence diagram to capture the information you discover.
 ---
+Note: this content is updated from exercises in [Introduction to Software Design with Java](https://github.com/prmr/SoftwareDesign/) by Martin P. Robillard
