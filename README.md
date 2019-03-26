@@ -30,3 +30,5 @@ This course provides an in-depth introduction to the discipline of software desi
 [M7](https://goo.gl/forms/xaluNE8a2flWHOD03)
 
 [M8](https://forms.gle/R6rLMSsU16mMbBu49)
+
+[M8-b](https://forms.gle/7Jm6tcLYjjaBfTQD9)
